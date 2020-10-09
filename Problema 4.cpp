@@ -4,6 +4,8 @@ Departamento de Sistemas y Computación
 Ing. Sistemas computacionales
 Lenguajes de interfaz
 Alonso Villegas Luis Antonio 18212139
+
+4.Imprimir los numeros enteros del 1 al 30, apareados con sus recíprocos
 */
 #include <iostream>
 
