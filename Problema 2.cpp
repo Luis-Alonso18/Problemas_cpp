@@ -4,6 +4,8 @@ Departamento de Sistemas y Computación
 Ing. Sistemas computacionales
 Lenguajes de interfaz
 Alonso Villegas Luis Antonio 18212139
+
+2.Imprimir los numeros enteros impares del 7 al 51
 */
 #include <iostream>
 
