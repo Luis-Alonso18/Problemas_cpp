@@ -4,6 +4,8 @@ Departamento de Sistemas y Computación
 Ing. Sistemas computacionales
 Lenguajes de interfaz
 Alonso Villegas Luis Antonio 18212139
+
+5.Imprimir una tabla de potencias del 2 que no exceda al 1,000
 */
 
 #include <iostream>
