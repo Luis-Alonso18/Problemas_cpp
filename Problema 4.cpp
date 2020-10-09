@@ -12,7 +12,7 @@ Alonso Villegas Luis Antonio 18212139
 using namespace std;
 
 int main() {
-  for (double x = 1; x <= 30; x++) {
+  for (int x = 1; x <= 30; x++) {
     cout << "Número: " << x << "; Recíproco: " << 1 << "/" << x << endl;
   }
 }
