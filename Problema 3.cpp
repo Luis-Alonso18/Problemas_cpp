@@ -4,6 +4,8 @@ Departamento de Sistemas y Computación
 Ing. Sistemas computacionales
 Lenguajes de interfaz
 Alonso Villegas Luis Antonio 18212139
+
+3.Imprimir los numeros enteros pares del 2 al 48
 */
 #include <iostream>
 
