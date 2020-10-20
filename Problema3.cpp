@@ -1,12 +1,18 @@
-/*
-Instituto Tecnológico de Tijuana
-Departamento de Sistemas y Computación
-Ing. Sistemas computacionales
-Lenguajes de interfaz
-Alonso Villegas Luis Antonio 18212139
-
-3.Imprimir los numeros enteros pares del 2 al 48
+/*  @@
+    @@ Instituto Tecnologico de Tijuana
+    @@ Depto de Sistemas y Computación
+    @@ Ing. En Sistemas Computacionales
+    @@   
+    @@ Autor : Alonso Villegas Luis Antonio @nickname Luis-Alonso18
+    @@ Repositorio: http://github.com/tectijuana/Problemas_cpp
+    @@ Fecha de revisión: 20/10/2020
+    @@ 
+    @
+    @ Objetivo del programa:
+    @  Imprimir los numeros enteros pares del 2 al 48
+    @
 */
+
 #include <iostream>
 
 using namespace std;
