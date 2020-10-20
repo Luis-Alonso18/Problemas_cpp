@@ -1,4 +1,4 @@
-    ;@@
+/*    ;@@
     ;@@ Instituto Tecnologico de Tijuana
     ;@@ Depto de Sistemas y Computación
     ;@@ Ing. En Sistemas Computacionales
@@ -11,7 +11,7 @@
     ;@ Objetivo del programa:
     ;@    Desplegar en la pantalla el mensaje de "Hello, world!"
     ;@
-
+*/
     
     .text    
     .global _start
