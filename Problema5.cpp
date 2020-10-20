@@ -1,11 +1,16 @@
-/*
-Instituto Tecnológico de Tijuana
-Departamento de Sistemas y Computación
-Ing. Sistemas computacionales
-Lenguajes de interfaz
-Alonso Villegas Luis Antonio 18212139
-
-5.Imprimir una tabla de potencias del 2 que no exceda al 1,000
+/*  @@
+    @@ Instituto Tecnologico de Tijuana
+    @@ Depto de Sistemas y Computación
+    @@ Ing. En Sistemas Computacionales
+    @@   
+    @@ Autor : Alonso Villegas Luis Antonio @nickname Luis-Alonso18
+    @@ Repositorio: http://github.com/tectijuana/Problemas_cpp
+    @@ Fecha de revisión: 20/10/2020
+    @@ 
+    @
+    @ Objetivo del programa:
+    @  Imprimir una tabla de potencias del 2 que no exceda al 1,000
+    @
 */
 
 #include <iostream>
